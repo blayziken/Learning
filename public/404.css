@@ -1,0 +1,42 @@
+body {
+    background-image: url(404.jpg)
+}
+
+.heading {
+    text-align: center;
+    font-family: Arial Black;
+    margin: 150px 0px 0px 0px;
+    color: white;
+    font-size: 100px;
+}
+
+.below {
+    text-align: center;
+    font-family: Georgia;
+    color: white;
+    font-size: 30px;
+    margin: 0px 100px;
+}
+
+.tag {
+    text-align: center;
+}
+
+a {
+     font-size: 15px;
+    text-align: center;
+    padding-top: 150px;
+    text-decoration: none;
+    color: white;
+   
+}
+
+.cont {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin: 10px 100px 0px;
+}
+a:hover{
+    color: blue;
+}
