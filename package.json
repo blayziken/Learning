@@ -10,7 +10,7 @@
     "mongodb": "^3.3.3",
     "mysql2": "^1.7.0",
     "nodemon": "^1.19.4",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sequelize": "^5.18.4"
   },
   "devDependencies": {},
